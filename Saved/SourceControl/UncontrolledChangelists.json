@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Locomotion/Idle_Break.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/ABP_BTWCharacter.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Lean/Lean_Left.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Lean/Lean_Right.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue_02.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Vaulting/VaultOver.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HH/FBHNWU8FJXJTME0EVWEN3V.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att1.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Blueprints/BP_Dummy.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Blueprints/BPI_Assassination.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/Characters/BTW_Character/Animations/Assassinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/UI/WB_AssassinatePrompt.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/R6/Q6Y585JRP1VQNTX85QXP2E.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"D:/Unreal 5 Projects/burnthewitch_final/Content/ThirdPerson/Input/Actions/IA_Assassin.uasset"
+			]
+		}
+	]
+}
